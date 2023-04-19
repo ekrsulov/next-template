@@ -4,6 +4,9 @@ import Link from "next/link"
 import { Layout } from "@/components/layout"
 import { buttonVariants } from "@/components/ui/button"
 import { Icons } from "@/components/icons"
+import { DynaPuff } from "@next/font/google";
+
+const dynapuff = DynaPuff({ subsets: ["latin"] });
 
 export default function IndexPage() {
   return (
@@ -14,12 +17,13 @@ export default function IndexPage() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <main>
       <section className="container grid items-center gap-6 pt-6 pb-8 md:py-10">
         <div className="max-w-[600px] md:max-w-[800px] md:place-self-center xl:place-self-auto xl:max-w-[600px]">
           
           <div className="flex max-w-[980px] flex-col items-start gap-2">
             <h1 className="text-3xl font-extrabold leading-tight tracking-tighter sm:text-3xl md:text-5xl lg:text-6xl">
-              Poleras Mágicas
+              <div className={dynapuff.className}>Poleras Mágicas</div>
             </h1>
             <p className="text-lg text-slate-700 dark:text-slate-400 sm:text-xl">
               Escríbenos por WhatsApp y envíanos 10 imágenes, recibirás tu diseño en horas y tu polera en pocos días.
@@ -64,6 +68,7 @@ export default function IndexPage() {
           
          </div>
       </section>
+      </main>
     </Layout>
   )
 }
