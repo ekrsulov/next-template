@@ -61,7 +61,7 @@ export default function IndexPage() {
                 {item.images?(
                   <>
                     {item.images.map((image, index) => {return (
-                      <img src={"/help/" + image} width="600"/>
+                      <img className="dark:invert-[.90]" src={"/help/" + image} width="600"/>
                     )})}
                   </>
                 ):(<></>)}
