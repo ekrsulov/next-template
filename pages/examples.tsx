@@ -21,7 +21,6 @@ export default function IndexPage() {
 "76b2cbc0-0968-4ce7-9e33-221a6466c888_608576-transparent.png",
 "7814b644-be44-4886-80e4-32c209ee6f90_456484-transparent.png",
 "9330f128-a588-46e8-83d8-72a0593e7baa_768431-transparent.png",
-"989a5f62-2e96-4871-acc6-71c600a69e6b_651523-transparent.png",
 "ad22405d-76ab-4c80-be45-6444822823ee_482935-transparent.png",
 "af6dcb00-78f9-460f-821e-1e4578ff244b_255404-transparent.png",
 "d8adeb2c-e2a2-449c-8971-2e79a1a30563_213372-transparent.png",
