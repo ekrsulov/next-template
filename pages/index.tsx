@@ -48,7 +48,7 @@ export default function IndexPage() {
               recibirás un código de activación para interactuar a través de {" "}
               <Link target="_blank" rel="noreferrer" href="https://wa.me/56920602700" className="underline">WhatsApp</Link>, 
               donde podrás enviarnos 10 fotos que reflejen lo que quieres personalizar en tu polera.
-              ¡No importa si se trata de un mujer, hombre, niña, niño, pareja o incluso tu mascota!
+              ¡No importa si se trata de una mujer, hombre, niña, niño, pareja o incluso tu mascota!
             </div>
 
             <div className="my-4">
