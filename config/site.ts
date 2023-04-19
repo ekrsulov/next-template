@@ -19,6 +19,10 @@ export const siteConfig: SiteConfig = {
     {
       title: "Inicio",
       href: "/",
+    },   
+    {
+      title: "Ejemplos",
+      href: "/examples",
     },
   ],
   links: {
