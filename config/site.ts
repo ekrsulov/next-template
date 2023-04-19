@@ -24,6 +24,14 @@ export const siteConfig: SiteConfig = {
       title: "Ejemplos",
       href: "/examples",
     },
+    {
+      title: "Ayuda",
+      href: "/help",
+    },
+    {
+      title: "Contacto",
+      href: "/contact",
+    },
   ],
   links: {
     twitter: "https://twitter.com/shadcn",

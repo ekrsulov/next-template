@@ -4,8 +4,8 @@ import Link from "next/link"
 import { Layout } from "@/components/layout"
 import { buttonVariants } from "@/components/ui/button"
 import { Icons } from "@/components/icons"
-import { DynaPuff } from "@next/font/google";
 
+import { DynaPuff } from "@next/font/google";
 const dynapuff = DynaPuff({ subsets: ["latin"] });
 
 export default function IndexPage() {
