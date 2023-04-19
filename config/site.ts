@@ -12,12 +12,12 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "Next.js",
+  name: "Yenda",
   description:
-    "Beautifully designed components built with Radix UI and Tailwind CSS.",
+    "Venta de poleras personalizadas.",
   mainNav: [
     {
-      title: "Home",
+      title: "Inicio",
       href: "/",
     },
   ],
