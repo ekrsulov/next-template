@@ -22,7 +22,7 @@ export default function IndexPage() {
         <div className="max-w-[600px] md:max-w-[800px] md:place-self-center xl:place-self-auto xl:max-w-[600px]">
           
           <div className="flex max-w-[980px] flex-col items-start gap-2">
-            <h1 className="text-3xl font-extrabold leading-tight tracking-tighter sm:text-3xl md:text-5xl lg:text-6xl">
+            <h1 className="text-3xl font-extrabold leading-tight tracking-wide sm:text-3xl md:text-5xl lg:text-6xl">
               <div className={dynapuff.className}>Poleras Mágicas</div>
             </h1>
             <p className="text-lg text-slate-700 dark:text-slate-400 sm:text-xl">
