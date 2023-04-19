@@ -3,6 +3,16 @@ import Image from "next/image"
 
 import { Layout } from "@/components/layout"
 
+
+const shuffleArray = array => {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    const temp = array[i];
+    array[i] = array[j];
+    array[j] = temp;
+  }
+}
+
 export default function IndexPage() {
   var samples = [
 "26e6ddce-be5b-4c1c-ac2a-e1dadd82d45c_182673-transparent.png",
@@ -19,7 +29,8 @@ export default function IndexPage() {
 "ef438419-a8c3-4f91-a64a-a53fe8c53991_120516-transparent.png",
 "fdf1ca25-3627-4d5f-885f-578fc49a0363_223423-transparent.png",
 ]
-  
+
+shuffleArray(samples);
   
   return (
     <Layout>
