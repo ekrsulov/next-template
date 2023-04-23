@@ -39,7 +39,7 @@ export default function IndexPage() {
             </Link>
           </div>
           
-          <Icons.headImg className="p-4 max-w-[600px] xl:max-w-[600px] xl:absolute xl:top-24 xl:left-1/2 fill-slate-900 dark:bg-slate-100 rounded-md" />
+          <Icons.headImg className="py-1 max-w-[600px] xl:max-w-[600px] xl:absolute xl:top-24 xl:left-1/2 fill-slate-900 dark:bg-slate-100 rounded-md" />
           
           <div className="text-base text-slate-700 dark:text-slate-400 sm:text-lg">
             <div className="font-extrabold dark:text-slate-300 my-4 text-xl sm:text-2xl">
