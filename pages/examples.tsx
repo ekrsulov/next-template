@@ -45,7 +45,7 @@ export default function IndexPage() {
         <h1 className="text-3xl font-extrabold leading-tight tracking-wide sm:text-3xl md:text-5xl lg:text-6xl">
           <div className={dynapuff.className}>Ejemplos de Poleras Mágicas</div>
         </h1>
-        <section className="container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 items-center gap-6 pt-6 pb-8 md:py-10">
+        <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
           {samples.map((img, index) => {
                 return (<Image alt={"example-"+index} src={"/examples/" + img} width="512" height="512"/>);
           })}
