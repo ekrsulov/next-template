@@ -25,9 +25,9 @@ export default function IndexPage() {
             <h1 className="text-3xl font-extrabold leading-tight tracking-wide sm:text-3xl md:text-5xl lg:text-6xl">
               <div className={dynapuff.className}>Poleras Mágicas</div>
             </h1>
-            <p className="text-lg text-slate-700 dark:text-slate-400 sm:text-xl">
+            <div className="text-lg text-slate-700 dark:text-slate-400 sm:text-xl">
               Escríbenos por WhatsApp y envíanos 10 imágenes, recibirás tu diseño en horas y tu polera en pocos días.
-            </p>
+            </div>
           </div>
           
           <div className="flex gap-4 my-8">
@@ -40,7 +40,7 @@ export default function IndexPage() {
           </div>
           
           <Icons.headImg className="p-1 max-w-[600px] xl:max-w-[600px] xl:absolute xl:top-24 xl:left-1/2 fill-slate-900 dark:bg-slate-100 rounded-md" />
-          
+            
           <div className="text-base text-slate-700 dark:text-slate-400 sm:text-lg">
             <div className="font-extrabold dark:text-slate-300 my-4 text-xl sm:text-2xl">
               ¡Haz realidad tu diseño soñado!
