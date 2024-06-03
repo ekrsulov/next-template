@@ -48,7 +48,7 @@ export default function IndexPage() {
 
             <div className="my-4">
               Para comenzar, realiza la compra en nuestra tienda online {" "}
-              <Link href="https://yendaapp.apanio.store/" target="_blank" rel="noreferrer" className="underline">apanio.com/yenda</Link> y 
+              <Link href="https://yendaapp.apanio.store/" target="_blank" rel="noreferrer" className="underline">yendaapp.apanio.store</Link> y 
               recibirás un código de activación para interactuar a través de {" "}
               <Link target="_blank" rel="noreferrer" href="https://wa.me/56920602700" className="underline">WhatsApp</Link>, 
               donde podrás enviarnos 10 fotos que reflejen lo que quieres personalizar en tu polera.
