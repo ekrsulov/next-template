@@ -89,7 +89,7 @@ export default function IndexPage() {
         <p><strong> Contacto </strong> </p>
         <p>Si tienes preguntas o preocupaciones sobre esta política de privacidad, por favor contáctanos a:
         poleras@yenda.app</p>
-        <p>Agradecemos tu confianza y el uso de [Nombre de la App]. Nos comprometemos a proteger tu privacidad y a brindarte la mejor experiencia posible.</p>
+        <p>Agradecemos tu confianza y el uso de Yenda. Nos comprometemos a proteger tu privacidad y a brindarte la mejor experiencia posible.</p>
 
         </div>
 
