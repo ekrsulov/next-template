@@ -32,6 +32,10 @@ export const siteConfig: SiteConfig = {
       title: "Contacto",
       href: "/contact",
     },
+    {
+      title: "Políticas de Privacidad",
+      href: "/privacity",
+    },
   ],
   links: {
     twitter: "https://twitter.com/shadcn",
