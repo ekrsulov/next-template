@@ -46,14 +46,12 @@ export default function IndexPage() {
         <h1 className="text-3xl font-extrabold leading-tight tracking-wide sm:text-3xl md:text-5xl lg:text-6xl">
           <div className={dynapuff.className}>Políticas de Privacidad - Yenda Poleras Mágicas</div>
         </h1>
-      
-        <div>
-          Política de Privacidad de Yenda
-        </div>
 
         <div>
           
         <p>Última actualización: 01 de abril de 2024</p>
+          <br />
+          <br />
         <p><strong> Introducción </strong></p>
           <br />
         <p>En Yenda, valoramos tu privacidad y nos comprometemos a proteger tu información personal. Esta política de privacidad explica cómo recopilamos, utilizamos, y protegemos tus datos cuando utilizas nuestra aplicación.</p>
