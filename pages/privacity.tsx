@@ -55,8 +55,12 @@ export default function IndexPage() {
           
         <p>Última actualización: 01 de abril de 2024</p>
         <p><strong> Introducción </strong></p>
+          <br />
         <p>En Yenda, valoramos tu privacidad y nos comprometemos a proteger tu información personal. Esta política de privacidad explica cómo recopilamos, utilizamos, y protegemos tus datos cuando utilizas nuestra aplicación.</p>
+          <br />
+          <br />
         <p><strong> Información que Recopilamos </strong></p>
+          <br />
         <ul>
         <li>Información de Registro: Cuando te registras en nuestra app, recopilamos información como tu nombre, dirección de correo electrónico, y número de teléfono.</li>
         <li>Información de Uso: Recopilamos datos sobre cómo interactúas con la app, incluyendo las funciones que utilizas y las acciones que realizas.</li>
@@ -64,31 +68,54 @@ export default function IndexPage() {
         <li>Datos de Ubicación: Con tu consentimiento, podemos recopilar y utilizar datos precisos de ubicación para proporcionar servicios basados en la ubicación.</li>
         <li>Información de Redes Sociales: Si decides conectar tu cuenta de redes sociales con nuestra app, recopilaremos información de tu perfil público, como tu nombre y foto de perfil.</li>
         </ul>
+          <br />
+          <br />
         <p><strong> Cómo Utilizamos tu Información </strong></p>
+          <br />
         <ul>
         <li>Provisión de Servicios: Utilizamos tus datos para ofrecer y mejorar nuestros servicios, personalizar tu experiencia y responder a tus consultas.</li>
         <li>Comunicaciones: Podemos utilizar tu información de contacto para enviarte actualizaciones, notificaciones y otras comunicaciones relacionadas con la app.</li>
         <li>Análisis y Mejoras: Analizamos el uso de la app para entender tendencias y mejorar nuestras funcionalidades y servicios.</li>
         <li>Seguridad: Utilizamos tu información para detectar y prevenir fraudes y otros usos no autorizados de la app.</li>
         </ul>
+          <br />
+          <br />
         <p><strong> Compartición de tu Información </strong></p>
+          <br />
         <p>No vendemos, alquilamos ni compartimos tu información personal con terceros, excepto en las siguientes circunstancias:</p>
         <ul>
         <li>Proveedores de Servicios: Compartimos información con proveedores de servicios que nos ayudan a operar y mejorar la app.</li>
         <li>Requisitos Legales: Podemos divulgar tu información si así lo requiere la ley o en respuesta a una solicitud válida de las autoridades.</li>
         <li>Protección de Derechos: Podemos compartir información para proteger los derechos, propiedad o seguridad de Yenda, nuestros usuarios u otros.</li>
         </ul>
+          <br />
+          <br />
         <p><strong> Seguridad de la Información </strong> </p>
+          <br />
         <p>Implementamos medidas de seguridad técnicas y organizativas adecuadas para proteger tus datos personales contra el acceso, uso o divulgación no autorizados.</p>
+          <br />
+          <br />
         <p><strong> Retención de Datos </strong> </p>
+          <br />
         <p>Retenemos tus datos personales durante el tiempo necesario para cumplir con los fines descritos en esta política, a menos que se requiera o permita un período de retención más largo por la ley.</p>
+          <br />
+          <br />
         <p><strong> Tus Derechos </strong> </p>
+          <br />
         <p>Tienes derecho a acceder, corregir, eliminar y oponerte al tratamiento de tus datos personales. Para ejercer estos derechos, por favor contacta con nosotros a poleras@yenda.app.</p>
+          <br />
+          <br />
         <p><strong> Cambios a esta Política de Privacidad </strong> </p>
+          <br />
         <p>Podemos actualizar esta política de privacidad periódicamente. Te notificaremos sobre cambios significativos publicando la nueva política en nuestra app y/o enviándote una notificación.</p>
+          <br />
+          <br />
         <p><strong> Contacto </strong> </p>
+          <br />
         <p>Si tienes preguntas o preocupaciones sobre esta política de privacidad, por favor contáctanos a:
         poleras@yenda.app</p>
+          <br />
+          <br />
         <p>Agradecemos tu confianza y el uso de Yenda. Nos comprometemos a proteger tu privacidad y a brindarte la mejor experiencia posible.</p>
 
         </div>
