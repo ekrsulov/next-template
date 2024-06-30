@@ -76,7 +76,7 @@ export default function IndexPage() {
         <ul>
         <li>Proveedores de Servicios: Compartimos información con proveedores de servicios que nos ayudan a operar y mejorar la app.</li>
         <li>Requisitos Legales: Podemos divulgar tu información si así lo requiere la ley o en respuesta a una solicitud válida de las autoridades.</li>
-        <li>Protección de Derechos: Podemos compartir información para proteger los derechos, propiedad o seguridad de [Nombre de la App], nuestros usuarios u otros.</li>
+        <li>Protección de Derechos: Podemos compartir información para proteger los derechos, propiedad o seguridad de Yenda, nuestros usuarios u otros.</li>
         </ul>
         <p><strong> Seguridad de la Información </strong> </p>
         <p>Implementamos medidas de seguridad técnicas y organizativas adecuadas para proteger tus datos personales contra el acceso, uso o divulgación no autorizados.</p>
