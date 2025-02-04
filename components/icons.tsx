@@ -15,8 +15,8 @@ export const Icons = {
   laptop: Laptop,
   twitter: Twitter,
   logo: (props: LucideProps) => (
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" {...props}>
-      <path fill="currentColor" d="M3.6 1.6C1 4.1 1.8 7.4 6 12.3c3.6 4.1 4 5 4 9.9 0 6.2 2 9.8 5.4 9.8 3.8 0 5.6-3 5.6-9.4 0-5.2.3-6 4.1-10.1 8.1-8.8 2.4-17.2-6.4-9.5-3.4 2.9-3.4 2.9-6.2 0C9.3-.3 6-.8 3.6 1.6z"/>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="5 -5 145 170" {...props}>
+      <path fill="currentColor" d="M18 8C30-4 47-2 63 15c14 15 14 15 31 0 44-38 73 4 32 48-19 21-21 25-21 51 0 32-9 47-28 47-17 0-27-18-27-49 0-25-2-29-20-50C9 37 5 21 18 8Z"/>
     </svg>
   ),
   gitHub: (props: LucideProps) => (
